@@ -1,0 +1,33 @@
+.border{
+    border-style: solid;
+}
+.pt-50{
+    padding-top: 50px;
+}
+.pb-50{
+    padding-bottom: 50px;
+}
+.pr-50{
+    padding-right: 50px;
+}
+.pl-50{
+    padding-left: 50px;
+}
+.px-100{
+    padding: 0 100px;
+}
+.mt-100{
+    margin-top: 100px;
+}
+.mb-100{
+    margin-bottom: 100px;
+}
+.mr-100{
+    margin-right: 100px;
+}
+.m-50{
+    margin: 50px;
+}
+.mx-100{
+    margin: 0 100px;
+}

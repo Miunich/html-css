@@ -1,0 +1,13 @@
+html{
+    font-size: 16px;
+}
+
+body{
+    font-size: 32px;
+}
+
+h1{
+    background-color: turquoise;
+    padding: 1rem;
+    font-size: 3em;
+}
